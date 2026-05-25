@@ -14,5 +14,8 @@ mobile/pubspec.lock
 **/.flutter-plugins-dependencies
 backend/data/*.db
 backend/data/*.db-*
+mobile/linux/
+mobile/windows/
+mobile/macos/
 .vscode/
 *.log
