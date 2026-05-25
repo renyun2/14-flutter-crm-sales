@@ -1,3 +1,5 @@
+**/.idea/
+**/*.iml
 **/node_modules/
 **/__pycache__/
 **/.pytest_cache/
@@ -6,9 +8,11 @@
 **/.env
 **/.dart_tool/
 **/build/
+**/package-lock.json
+mobile/pubspec.lock
 **/.flutter-plugins
 **/.flutter-plugins-dependencies
-*.iml
-.idea/
+backend/data/*.db
+backend/data/*.db-*
 .vscode/
 *.log
