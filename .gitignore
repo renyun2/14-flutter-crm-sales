@@ -1,0 +1,14 @@
+**/node_modules/
+**/__pycache__/
+**/.pytest_cache/
+**/dist/
+**/.venv/
+**/.env
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+*.log
